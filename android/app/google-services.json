@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "499590581626",
+    "project_id": "courseapp-21eb1",
+    "storage_bucket": "courseapp-21eb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499590581626:android:cf9eaca5651a1e42571ac3",
+        "android_client_info": {
+          "package_name": "com.venom82.notepediax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499590581626-se3t32kbjcnjjg6722tbp12mi145kce6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venom82.notepediax",
+            "certificate_hash": "b36ecf991309614e962e0509761e8ca9453b7368"
+          }
+        },
+        {
+          "client_id": "499590581626-kvubse5a7l9inb6b82mpm5ci7aa2vpna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcyZ6LfjdMjXzfpysUeSNEb_eI8Xu8Hn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499590581626-kvubse5a7l9inb6b82mpm5ci7aa2vpna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
